@@ -11,3 +11,7 @@ Answer: Could be applied to sports.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines two branches together, rebasing moves a branch to start from the latest version of another branch 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning about computer vision 
