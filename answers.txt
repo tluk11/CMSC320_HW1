@@ -7,3 +7,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Could be applied to sports.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches together, rebasing moves a branch to start from the latest version of another branch 
